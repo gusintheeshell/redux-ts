@@ -39,7 +39,7 @@
 In the terminal, clone the project:
 
 ```
-git clone git@github.com:gusbdev/logging-my-life-api.git
+git clone git@github.com:gusbdev/redux-ts.git
 ```
 
 From the terminal navigate to the app folder and run the command:
@@ -55,36 +55,18 @@ This will install the application's dependencies to run in the development envir
 Then just run the command:
 
 ```
-npm start
+npm run dev
 ```
-
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante.
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-## JSON :floppy_disk:
-
-### Usuários:
-
-| name      | email                  | password | token | avatar                                                                                                              |
-| --------- | ---------------------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------- |
-| Lais Lima | laislima98@hotmail.com | lais123  | true  | https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU |
-
-...
-
-Se quiser, coloque uma amostra do banco de dados
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados
+or with yarn:
+```
+yarn dev
+```
 
 ## Languages, dependencies and libs used :books:
 
-- [Express](https://expressjs.com/) - framework that handles HTTP requests among other things
-- [Mongoose](https://mongoosejs.com/) - elegant mongodb object modeling for node.js
-- [Insomnia Documenter](https://github.com/jozsefsallai/insomnia-documenter) - like Postman Documenter but for Insomnia! With this tool you can generate beautiful API documentation pages using your Insomnia export file.
+- [React](https://expressjs.com/) - framework that handles HTTP requests among other things
+- [React/Redux](https://react-redux.js.org/introduction/getting-started) - Official React bindings for Redux
+- [Axios](https://axios-http.com/docs/intro) - Promise based HTTP client for the browser and node.js
 
 ## Developers :octocat:
 
