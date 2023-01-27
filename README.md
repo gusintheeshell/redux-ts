@@ -64,7 +64,7 @@ yarn dev
 
 ## Languages, dependencies and libs used :books:
 
-- [React](https://expressjs.com/) - framework that handles HTTP requests among other things
+- [React](https://expressjs.com/) - A JavaScript library for building user interfaces
 - [React/Redux](https://react-redux.js.org/introduction/getting-started) - Official React bindings for Redux
 - [Axios](https://axios-http.com/docs/intro) - Promise based HTTP client for the browser and node.js
 
